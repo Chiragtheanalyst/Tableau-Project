@@ -3,5 +3,5 @@
 2. Developed real-time dashboards that empowered stakeholders to adjust property strategies on-the-fly, achieved a 15% uplift in booking rates and a 10% improvement in pricing accuracy. 
 
 ##Dataset Used
-<a href="https://github.com/Chiragtheanalyst/Tableau-Project/blob/main/calendar.xlsx">calendar.csv</a>
-<a href="https://github.com/Chiragtheanalyst/Tableau-Project/blob/main/calendar.xlsx">listing.csv</a>
+/n<a href="https://github.com/Chiragtheanalyst/Tableau-Project/blob/main/calendar.xlsx">calendar.csv</a>
+/n<a href="https://github.com/Chiragtheanalyst/Tableau-Project/blob/main/listing.xlsx">]listing.csv</a>
